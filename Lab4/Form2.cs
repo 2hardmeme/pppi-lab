@@ -15,6 +15,13 @@ namespace Lab4
         public Form2()
         {
             InitializeComponent();
+            //бла
+            //    бля
+            //    бла
+            //    бла
+            //    блаб
+            //    бла
+            //    бал
         }
     }
 }
